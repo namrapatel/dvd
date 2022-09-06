@@ -5,6 +5,6 @@ Currently the pool has 1 million DVT tokens in balance. And you have nothing.
 
 But don't worry, you might be able to take them all from the pool. In a single transaction.
 
-[See the contracts](https://github.com/namrapatel/damn-vulnerable-defi-foundry/tree/master/src/Contracts/truster)
+[See the contracts](https://github.com/namrapatel/dvd/tree/master/src/Contracts/truster)
 <br/>
-[Complete the challenge](https://github.com/namrapatel/damn-vulnerable-defi-foundry/blob/master/test/Levels/truster/Truster.t.sol)
+[Complete the challenge](https://github.com/namrapatel/dvd/blob/master/test/Levels/truster/Truster.t.sol)

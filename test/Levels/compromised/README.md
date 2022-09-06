@@ -17,6 +17,6 @@ This price is fetched from an on-chain oracle, and is based on three trusted rep
 
 Starting with only 0.1 ETH in balance, you must steal all ETH available in the exchange.
 
-[See the contracts](https://github.com/namrapatel/damn-vulnerable-defi-foundry/tree/master/src/Contracts/compromised)
+[See the contracts](https://github.com/namrapatel/dvd/tree/master/src/Contracts/compromised)
 <br/>
-[Complete the challenge](https://github.com/namrapatel/damn-vulnerable-defi-foundry/blob/master/test/Levels/compromised/Compromised.t.sol)
+[Complete the challenge](https://github.com/namrapatel/dvd/blob/master/test/Levels/compromised/Compromised.t.sol)

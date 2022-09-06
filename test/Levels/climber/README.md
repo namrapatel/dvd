@@ -9,6 +9,6 @@ On the timelock, only an account with a "Proposer" role can schedule actions tha
 
 Your goal is to empty the vault.
 
-[See the contracts](https://github.com/namrapatel/damn-vulnerable-defi-foundry/tree/master/src/Contracts/climber)
+[See the contracts](https://github.com/namrapatel/dvd/tree/master/src/Contracts/climber)
 <br/>
-[Complete the challenge](https://github.com/namrapatel/damn-vulnerable-defi-foundry/blob/master/test/Levels/climber/Climber.t.sol)
+[Complete the challenge](https://github.com/namrapatel/dvd/blob/master/test/Levels/climber/Climber.t.sol)

@@ -7,6 +7,6 @@ What could go wrong, right ?
 
 You start with no DVT tokens in balance, and the pool has 1.5 million. Your objective: take them all.
 
-[See the contracts](https://github.com/namrapatel/damn-vulnerable-defi-foundry/tree/master/src/Contracts/selfie)
+[See the contracts](https://github.com/namrapatel/dvd/tree/master/src/Contracts/selfie)
 <br/>
-[Complete the challenge](https://github.com/namrapatel/damn-vulnerable-defi-foundry/blob/master/test/Levels/selfie/Selfie.t.sol)
+[Complete the challenge](https://github.com/namrapatel/dvd/blob/master/test/Levels/selfie/Selfie.t.sol)

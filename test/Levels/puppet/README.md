@@ -5,6 +5,6 @@ There's a DVT market opened in an [Uniswap v1 exchange](https://docs.uniswap.org
 
 Starting with 25 ETH and 1000 DVTs in balance, you must steal all tokens from the lending pool.
 
-[See the contracts](https://github.com/namrapatel/damn-vulnerable-defi-foundry/tree/master/src/Contracts/puppet)
+[See the contracts](https://github.com/namrapatel/dvd/tree/master/src/Contracts/puppet)
 <br/>
-[Complete the challenge](https://github.com/namrapatel/damn-vulnerable-defi-foundry/blob/master/test/Levels/puppet/Puppet.t.sol)
+[Complete the challenge](https://github.com/namrapatel/dvd/blob/master/test/Levels/puppet/Puppet.t.sol)

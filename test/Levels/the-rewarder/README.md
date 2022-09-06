@@ -7,6 +7,6 @@ You don't have any DVT tokens. But in the upcoming round, you must claim most re
 
 Oh, by the way, rumours say a new pool has just landed on mainnet. Isn't it offering DVT tokens in flash loans?
 
-[See the contracts](https://github.com/namrapatel/damn-vulnerable-defi-foundry/tree/master/src/Contracts/the-rewarder)
+[See the contracts](https://github.com/namrapatel/dvd/tree/master/src/Contracts/the-rewarder)
 <br/>
-[Complete the challenge](https://github.com/namrapatel/damn-vulnerable-defi-foundry/blob/master/test/Levels/the-rewarder/TheRewarder.t.sol)
+[Complete the challenge](https://github.com/namrapatel/dvd/blob/master/test/Levels/the-rewarder/TheRewarder.t.sol)

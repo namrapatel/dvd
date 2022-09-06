@@ -5,6 +5,6 @@ This very simple lending pool has 1000 ETH in balance already, and is offering f
 
 You must take all ETH from the lending pool.
 
-[See the contracts](https://github.com/namrapatel/damn-vulnerable-defi-foundry/tree/master/src/Contracts/side-entrance)
+[See the contracts](https://github.com/namrapatel/dvd/tree/master/src/Contracts/side-entrance)
 <br/>
-[Complete the challenge](https://github.com/namrapatel/damn-vulnerable-defi-foundry/blob/master/test/Levels/side-entrance/SideEntrance.t.sol)
+[Complete the challenge](https://github.com/namrapatel/dvd/blob/master/test/Levels/side-entrance/SideEntrance.t.sol)

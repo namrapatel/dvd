@@ -5,4 +5,4 @@ To pass this challenge, you have to take all tokens out.
 
 You may need to use prior knowledge, safely.
 
-[Complete the challenge](https://github.com/namrapatel/damn-vulnerable-defi-foundry/blob/master/test/Levels/junior-miners/JuniorMiners.t.sol)
+[Complete the challenge](https://github.com/namrapatel/dvd/blob/master/test/Levels/junior-miners/JuniorMiners.t.sol)

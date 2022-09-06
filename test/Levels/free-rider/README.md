@@ -7,6 +7,6 @@ You want to build some rep with this buyer, so you've agreed with the plan.
 
 Sadly you only have 0.5 ETH in balance. If only there was a place where you could get free ETH, at least for an instant.
 
-[See the contracts](https://github.com/namrapatel/damn-vulnerable-defi-foundry/tree/master/src/Contracts/free-rider)
+[See the contracts](https://github.com/namrapatel/dvd/tree/master/src/Contracts/free-rider)
 <br/>
-[Complete the challenge](https://github.com/namrapatel/damn-vulnerable-defi-foundry/blob/master/test/Levels/free-rider/FreeRider.t.sol)
+[Complete the challenge](https://github.com/namrapatel/dvd/blob/master/test/Levels/free-rider/FreeRider.t.sol)

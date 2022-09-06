@@ -7,6 +7,6 @@ Currently there are four people registered as beneficiaries: Alice, Bob, Charlie
 
 Your goal is to take all funds from the registry. In a single transaction.
 
-[See the contracts](https://github.com/namrapatel/damn-vulnerable-defi-foundry/tree/master/src/Contracts/backdoor)
+[See the contracts](https://github.com/namrapatel/dvd/tree/master/src/Contracts/backdoor)
 <br/>
-[Complete the challenge](https://github.com/namrapatel/damn-vulnerable-defi-foundry/blob/master/test/Levels/backdoor/Backdoor.t.sol)
+[Complete the challenge](https://github.com/namrapatel/dvd/blob/master/test/Levels/backdoor/Backdoor.t.sol)
