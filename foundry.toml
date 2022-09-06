@@ -1,5 +1,6 @@
 [profile.default]
 verbosity = 2
+libs = ["node_modules", "lib"]
 
 ## set only when the `hardhat` profile is selected
 [profile.hardhat]
